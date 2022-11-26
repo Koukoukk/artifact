@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM registry.example.com:8443/test/ubuntu:20.04
 
 # git to get the artifact
 # wget and unzip for the rest of the setup
